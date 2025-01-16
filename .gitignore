@@ -1,0 +1,9 @@
+.venv/
+Data/
+Notebooks/test.csv
+Notebooks/holidays_events.csv
+Notebooks/transactions.csv
+Notebooks/stores.csv
+Notebooks/items.csv
+Notebooks/oil.csv
+Notebooks/train.csv
